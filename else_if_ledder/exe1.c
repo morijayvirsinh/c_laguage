@@ -6,7 +6,7 @@ int main()
     printf("enter the mark:");
     scanf("%d",&mark);
     if(mark>=90)
-    {printf
+    {
         printf("Grade :A+\n");
     }
     else if(mark>=80)

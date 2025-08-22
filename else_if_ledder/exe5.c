@@ -32,11 +32,12 @@ int main()
         result= a/b;
         printf("result =%.2f\n",result);
     }
-    else 
-    {
-       printf(" error:division by zero is not allowed.\n");
-    }
-     else if(op=='0')
+    //else 
+    //{
+      // printf(" error:division by zero is not allowed.\n");
+    //}
+    
+     else
 
     {
         printf("invalid operator.\n");
